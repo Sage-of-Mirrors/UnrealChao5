@@ -1,0 +1,14 @@
+{
+	"SourceFiles": [
+		"E:\\Github\\UnrealChao5\\Source\\UnrealChao5\\UnrealChao5.Build.cs",
+		"E:\\Github\\UnrealChao5\\Plugins\\Developer\\RiderLink\\Source\\RD\\RD.Build.cs",
+		"E:\\Github\\UnrealChao5\\Plugins\\Developer\\RiderLink\\Source\\RiderBlueprintExtension\\RiderBlueprintExtension.Build.cs",
+		"E:\\Github\\UnrealChao5\\Plugins\\Developer\\RiderLink\\Source\\RiderGameControlExtension\\RiderGameControlExtension.Build.cs",
+		"E:\\Github\\UnrealChao5\\Plugins\\Developer\\RiderLink\\Source\\RiderLink\\RiderLink.Build.cs",
+		"E:\\Github\\UnrealChao5\\Plugins\\Developer\\RiderLink\\Source\\RiderLoggingExtension\\RiderLoggingExtension.Build.cs",
+		"E:\\Github\\UnrealChao5\\Plugins\\Developer\\RiderLink\\Source\\RiderShaderInfoDump\\RiderShaderInfoDump.Build.cs",
+		"E:\\Github\\UnrealChao5\\Source\\UnrealChao5.Target.cs",
+		"E:\\Github\\UnrealChao5\\Source\\UnrealChao5Editor.Target.cs"
+	],
+	"EngineVersion": "5.0.0"
+}
