@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "UnrealChao5",
+			"Path": "E:\\Github\\UnrealChao5\\Source\\UnrealChao5.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "UnrealChao5Editor",
+			"Path": "E:\\Github\\UnrealChao5\\Source\\UnrealChao5Editor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
